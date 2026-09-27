@@ -1,6 +1,6 @@
 # Distillery Map
 
-**Ask how many distilleries there are in the world and nobody can tell you. We believe this is the world's first open-sourced map of them: 6,139 distilleries and spirit producers in 141 countries, every one with its source.**
+**Ask how many distilleries there are in the world and nobody can tell you. We believe this is the world's first open map of them: 6,139 distilleries and spirit producers in 141 countries, every one with its source.**
 
 ![Distillery Map at distillerymap.org, Europe view](screenshot.png)
 
@@ -17,7 +17,7 @@ The trade directories are paywalled, the Wikipedia lists are stale, and general 
 
 ## Where it stands
 
-Live and free at [distillerymap.org](https://distillerymap.org). The full dataset downloads as one file. Source: private.
+Live and free at [distillerymap.org](https://distillerymap.org). The map data is free to use with credit. Source code: private.
 
 ---
 
